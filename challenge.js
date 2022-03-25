@@ -77,7 +77,7 @@ if(hasBlackjack === false && isAlive === true){
 }
 
 
-
+                                //Commented exercise code
 //FOR LOOP
 // let cards = [7,3,9]
 
